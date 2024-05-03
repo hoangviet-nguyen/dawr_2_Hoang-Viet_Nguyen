@@ -1,0 +1,13 @@
+Assignment 1 Sources:
+
+    https://de.wikipedia.org/wiki/Engelberg
+    https://de.wikipedia.org/wiki/Sarnen
+    https://de.wikipedia.org/wiki/Alpnach
+    https://de.wikipedia.org/wiki/Kerns
+    https://de.wikipedia.org/wiki/Lungern
+    https://de.wikipedia.org/wiki/Giswil
+    https://de.wikipedia.org/wiki/Sachseln
+
+
+Assignment 2 Sources:
+    https://data.geo.admin.ch/browser/index.html#/collections/ch.are.gueteklassen_oev?.language=en
